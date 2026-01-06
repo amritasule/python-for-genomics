@@ -42,14 +42,19 @@ No external dependencies required!
 - See how sequences differ
 - Find mutations
 
-### Intermediate
+### 📙 Intermediate
 
-**04_complete_analysis.py** - Full analysis pipeline
-**05_gc_content_analysis.py** - GC content visualization
+**04_gc_content_analysis.py** - GC content visualization
+- Sliding window analysis
+- Compare GC-rich vs AT-rich sequences
+- Statistical analysis
 
-### Advanced
+### 📕 Advanced
 
-**06_orf_finder.py** - Open Reading Frame detection
+**05_orf_finder.py** - Open Reading Frame detection
+- Find potential genes
+- Analyze all reading frames
+- Translate to proteins
 
 ## Learning Path
 
