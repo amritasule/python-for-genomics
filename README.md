@@ -10,25 +10,6 @@ This repository contains reusable Python modules and examples for working with D
 - File format handling (FASTA, FASTQ)
 - Translation and genetic code operations
 
-## Repository Structure
-
-python-for-genomics/
-├── modules/               # Core reusable modules
-│   ├── dna_tools.py      # Basic DNA operations
-│   ├── sequence_analysis.py  # Advanced sequence analysis
-│   └── file_parsers.py   # FASTA/FASTQ file handling
-├── examples/             # Example scripts organized by difficulty
-│   ├── 00_basic_operations.py
-│   ├── 01_my_first_analysis.py
-│   ├── 02_interactive_analyzer.py
-│   ├── 03_compare_sequences.py
-│   ├── 04_complete_analysis.py
-│   ├── 05_gc_content_analysis.py
-│   └── 06_orf_finder.py
-├── data/                 # Sample data files
-│   └── sample_sequences.fasta
-└── README.md            # This file
-
 ## Quick Start
 
 Clone the repository:
