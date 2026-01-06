@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Output files
+*.fasta
+*.fastq
+!sample_sequences.fasta
